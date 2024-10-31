@@ -1,7 +1,6 @@
 <div align="center">
-<img width="205px" alt="logo" src="public/android-chrome-512x512.png">
 <br>
-<h1>Nightly ☄️</h1>
+<h1>Real Time Chat using supabase and next.js</h1>
 <img alt="Documentation" src="https://img.shields.io/badge/docs-main-blue">
 <a href="https://github.com/RiteshPuvvada/Real-Time-Chat-Supabase-NextJs/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/RiteshPuvvada/Real-Time-Chat-Supabase-NextJs"></a>
 <a href="https://github.com/RiteshPuvvada/Real-Time-Chat-Supabase-NextJs/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/RiteshPuvvada/Real-Time-Chat-Supabase-NextJs"></a>
@@ -94,7 +93,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## License
-
-This repository is under The MIT License. Read the [LICENSE](https://github.com/RiteshPuvvada/Real-Time-Chat-Supabase-NextJs/blob/main/LICENSE) file for more information.
